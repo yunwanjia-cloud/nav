@@ -1,0 +1,25 @@
+# 资料文档
+## 文档
+https://www.pypandas.cn/docs/,https://www.pypandas.cn/logo.png,Pandas 文档,Pandas: 强大的 Python 数据分析支持库
+https://www.numpy.org.cn/reference/,https://www.numpy.org.cn/logo.png,NumPy 文档,NumPy 参考手册
+https://sklearn.apachecn.org/,https://sklearn.apachecn.org/gitbook/images/apple-touch-icon-precomposed-152.png,sklearn 文档,scikit-learn (sklearn) 官方文档中文版
+## 速查表
+### 机器学习
+https://developers.google.com/machine-learning/glossary?hl=zh-cn,https://www.gstatic.com/devrel-devsite/prod/vafbb0b5d787a2bc7a3bcbfb9dfdb3baefdd01831979d5302dd65271466576cda/developers/images/touchicon-180.png,机器学习术语表,本术语表中列出了一般的机器学习术语和 TensorFlow 专用术语的定义.
+https://blog.csdn.net/liuxiao214/article/details/78130910,https://blog.csdn.net/apple-touch-icon-precomposed.png,机器学习专业名词中英文对照,机器学习专业名词中英文对照
+### LaTeX
+https://www.cnblogs.com/Coolxxx/p/5982439.html,https://www.cnblogs.com/favicon.ico,LaTeX 符号命令大全,其实也没有那么全啦
+https://baike.baidu.com/item/%E5%B8%8C%E8%85%8A%E5%AD%97%E6%AF%8D,https://baike.baidu.com/favicon.ico,希腊字母,希腊字母表
+# 工具网站
+## 壁纸图片
+https://wall.alphacoders.com/?lang=Chinese,https://static.alphacoders.com/icons/wallpaper/apple-touch-icon.png,Wallpaper Abyss,高清壁纸&#44 桌面背景
+## 小工具
+### 站点相关
+https://i.olsh.me,https://i.olsh.me/apple-touch-icon.png,The Favicon Finder,获取网站 favicon
+https://www.mynb8.com/index.html,https://www.mynb8.com/favicon.ico,新浪短网址生成器,可以生成新浪短网址 (t.cn)&#44 生成的新浪短网址永久有效&#44 请放心使用.
+https://www.xml-sitemaps.com,https://www.xml-sitemaps.com/images/logo-trans.png,Sitemap,生成站点 Sitemap
+### 数学
+https://zuotu.91maths.com,https://zuotu.91maths.com/favicon.ico,函数图像,画出初等函数的图像
+https://zs.symbolab.com/,https://i.olsh.me/lettericons/S-120.png,Symbolab 数学求解器,各种数学工具
+### 转换工具
+https://imagecompressor.com/,https://imagecompressor.com/images/imagecompressor/favicon.png,Online Image Compressor,图片压缩工具
