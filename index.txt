@@ -3,6 +3,10 @@
 https://www.pypandas.cn/docs/,https://www.pypandas.cn/logo.png,Pandas 文档,Pandas: 强大的 Python 数据分析支持库
 https://www.numpy.org.cn/reference/,https://www.numpy.org.cn/logo.png,NumPy 文档,NumPy 参考手册
 https://sklearn.apachecn.org/,https://sklearn.apachecn.org/gitbook/images/apple-touch-icon-precomposed-152.png,sklearn 文档,scikit-learn (sklearn) 官方文档中文版
+## 学习资料
+### 强化学习
+https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/,https://morvanzhou.github.io/static/img/description/tab_icon.png,强化学习 Reinforcement Learning,莫烦大佬的强化学习入门教程
+https://spinningup.openai.com/en/latest/,https://spinningup.openai.com/favicon.ico,Deep RL,深度强化学习
 ## 速查表
 ### 机器学习
 https://developers.google.com/machine-learning/glossary?hl=zh-cn,https://www.gstatic.com/devrel-devsite/prod/vafbb0b5d787a2bc7a3bcbfb9dfdb3baefdd01831979d5302dd65271466576cda/developers/images/touchicon-180.png,机器学习术语表,本术语表中列出了一般的机器学习术语和 TensorFlow 专用术语的定义.
