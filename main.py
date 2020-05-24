@@ -80,9 +80,6 @@ head = """<!DOCTYPE html>
                         </a>
                     </div>
                     <div class="mobile-menu-toggle visible-xs">
-                        <a href="#" data-toggle="user-info-menu">
-                            <i class="linecons-cog"></i>
-                        </a>
                         <a href="#" data-toggle="mobile-menu">
                             <i class="fa-bars"></i>
                         </a>
